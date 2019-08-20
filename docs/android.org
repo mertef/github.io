@@ -13,4 +13,4 @@
 #+KEYWORDS:
 #+LANGUAGE: en
 #+SELECT_TAGS: export
-* android leaning
+* leaning
